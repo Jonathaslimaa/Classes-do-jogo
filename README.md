@@ -1,1 +1,1 @@
-Definindo da classe Heroi em Javascript
+Definindo a classe Heroi em Javascript
